@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "136363183585",
+    "firebase_url": "https://konradlorenz-506152009.firebaseio.com",
+    "project_id": "konradlorenz-506152009",
+    "storage_bucket": "konradlorenz-506152009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136363183585:android:e4aad2027d3fafe1",
+        "android_client_info": {
+          "package_name": "co.edu.konradlorenz.ejemplofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136363183585-7ohcl4fero4kdb56dhhbn1d9o7mhsmim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3j-ODyKVHMyMGO7aaVJDb0--nIEknzFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
